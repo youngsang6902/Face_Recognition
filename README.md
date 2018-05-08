@@ -4,5 +4,8 @@
 ### 2. opencv 환경설정
 ### 3. pip3 환경설정
 ## ------------------------------------
-    #include <stdio.h>
-    
+
+## 1. 라즈베리 환경설정
+>    $ sudo apt-get install update
+     $ sudo apt-get install upgrade
+     
