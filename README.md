@@ -24,6 +24,7 @@
     $ unzip opencv_contrib.zip
 
 ### Compile in the opencv directory ( Opencv 컴파일 )
+
     $ cd opencv-3.1.0/
     $ mkdir build
     $ cd build
@@ -49,6 +50,7 @@
     ../
 
 ### Install Opencv ( Opnecv 설치 )
+
     $ time make
     $ sudo make install
 ***
