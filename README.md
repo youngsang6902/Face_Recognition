@@ -25,7 +25,7 @@
 
 ### Compile in the opencv directory ( Opencv 컴파일 )
 
-    $ cd opencv-3.1.0/
+    $ cd opencv-3.1.0/
     $ mkdir build
     $ cd build
     $ cmake -D CMAKE_BUILD_TYPE=RELEASE \ 
