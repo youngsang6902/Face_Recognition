@@ -1,15 +1,15 @@
 # Face_Recognition
-## ---------------차례-----------------
-### 1. 라즈베리파이 파이썬환경설정
-### 2. opencv 환경설정
-### 3. pip3 환경설정
-## ------------------------------------
+>## ---------------차례-----------------
+>### 1. 라즈베리파이 파이썬환경설정
+>### 2. opencv 환경설정
+>### 3. pip3 환경설정
+>## ------------------------------------
 ***
->## 1. 라즈베리 환경설정
->### Ubuntu_mate update & upgrade (우분투 최신버전 유지)
->    $ sudo apt-get install update
->    $ sudo apt-get install upgrade
->***    
+## 1. 라즈베리 환경설정
+### Ubuntu_mate update & upgrade (우분투 최신버전 유지)
+    $ sudo apt-get install update
+    $ sudo apt-get install upgrade
+***    
 ## 2. Opencv 환경설정
 ### Install opencv dependencies (Opencv 의존성 설치)
     $ sudo apt-get purge  libopencv* python-opencv
