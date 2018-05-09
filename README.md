@@ -9,7 +9,9 @@
 ### Ubuntu_mate update & upgrade (우분투 최신버전 유지)
     $ sudo apt-get install update
     $ sudo apt-get install upgrade
-***    
+### gedit install ( vi 환경을 사용시 미설치 )
+    $ sudo apt-get install gedit
+***  
 ## 2. Opencv 환경설정
 ### Install opencv dependencies (Opencv 의존성 설치)
     $ sudo apt-get purge  libopencv* python-opencv
