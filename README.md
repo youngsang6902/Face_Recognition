@@ -18,7 +18,7 @@
     $ sudo apt-get -y install pkg-config libjpeg-dev libtiff5-dev libjasper-dev libpng12-dev libavcodec-dev libavformat-dev libswscale-dev libxvidcore-dev libx264-dev libxine2-dev libv4l-dev v4l-utils libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libqt4-dev libgtk2.0-dev libgtk-3-dev mesa-utils libgl1-mesa-dri libqt4-opengl-dev libatlas-base-dev gfortran libeigen3-dev python3-dev python3-numpy libatlas-base-dev gfortran
 
 ### Download the opencv source (Opencv 소스 다운로드)
-    $ wget -O opencv.zip https://github.com/opencv/opencv/archive/3.1.0.zip
+    $ wget -O opencv.zip https://github.com/opencv/opencv/archive/3.1.0.zip
     $ unzip opencv.zip
     $ wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/3.1.0.zip
     $ unzip opencv_contrib.zip
@@ -56,7 +56,7 @@
 ***
 ## 3. pip3 환경설정
 ### pip3 install
-    $ wget https://bootstrap.pypa.ip/get-pip.py
+    $ wget https://bootstrap.pypa.ip/get-pip.py
     $ python3 get-pip.py
 ***
 
