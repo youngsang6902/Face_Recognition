@@ -7,7 +7,6 @@
 ***
 ## 1. 라즈베리 환경설정
 ### Ubuntu_mate update & upgrade (우분투 최신버전 유지)
-    
     $ sudo apt-get install update
     $ sudo apt-get install upgrade
 ***    
